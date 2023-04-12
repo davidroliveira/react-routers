@@ -9,8 +9,8 @@ export default function Banner() {
 
         <p className={styles.paragrafo}>
           Boas vindas ao meu espaço pessoal! Eu sou David Rodrigo de Oliveira,
-          fazendo curso de Front-end da Alura. Aqui compartilho vários
-          conhecimentos, espero que aprenda algo novo :)
+          fazendo curso de Front-end da Alura. Aqui busco vários conhecimentos,
+          espero que aprenda algo novo :)
         </p>
       </div>
       <div className={styles.imagens}>
